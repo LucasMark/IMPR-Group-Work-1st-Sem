@@ -1,0 +1,7 @@
+C:/Users/Lucas/CLionProjects/lecture-5-live-LucasMark/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-5-live-LucasMark/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-5-live-LucasMark/cmake-build-debug/src/CMakeFiles/cirkel.dir
+C:/Users/Lucas/CLionProjects/lecture-5-live-LucasMark/cmake-build-debug/src/CMakeFiles/trekant.dir
+C:/Users/Lucas/CLionProjects/lecture-5-live-LucasMark/cmake-build-debug/src/CMakeFiles/live.dir
+C:/Users/Lucas/CLionProjects/lecture-5-live-LucasMark/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-5-live-LucasMark/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
