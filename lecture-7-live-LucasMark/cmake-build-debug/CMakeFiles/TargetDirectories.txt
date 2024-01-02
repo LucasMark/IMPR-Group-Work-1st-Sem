@@ -1,0 +1,6 @@
+C:/Users/Lucas/CLionProjects/lecture-7-live-LucasMark/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-7-live-LucasMark/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-7-live-LucasMark/cmake-build-debug/src/CMakeFiles/cashier.dir
+C:/Users/Lucas/CLionProjects/lecture-7-live-LucasMark/cmake-build-debug/src/CMakeFiles/dynamic_cashier.dir
+C:/Users/Lucas/CLionProjects/lecture-7-live-LucasMark/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-7-live-LucasMark/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
