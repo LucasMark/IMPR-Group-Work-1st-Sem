@@ -1,0 +1,55 @@
+Start testing: Oct 18 12:01 Rom, sommertid
+----------------------------------------------------------
+1/3 Testing: test_point_distance_point_distance_2d_00_10
+1/3 Test: test_point_distance_point_distance_2d_00_10
+Command: "C:/Users/Lucas/CLionProjects/lecture-8-LucasMark/cmake-build-debug/test/test_point_distance.exe" "point_distance_2d_00_10"
+Directory: C:/Users/Lucas/CLionProjects/lecture-8-LucasMark/cmake-build-debug/test
+"test_point_distance_point_distance_2d_00_10" start time: Oct 18 12:01 Rom, sommertid
+Output:
+----------------------------------------------------------
+Testing (0,0)(1,0)
+ in unittest_point_distance.c:9
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_point_distance_point_distance_2d_00_10" end time: Oct 18 12:01 Rom, sommertid
+"test_point_distance_point_distance_2d_00_10" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: test_point_distance_2d
+2/3 Test: test_point_distance_2d
+Command: "C:/Users/Lucas/CLionProjects/lecture-8-LucasMark/cmake-build-debug/test/test_point_distance_2d.exe"
+Directory: C:/Users/Lucas/CLionProjects/lecture-8-LucasMark/cmake-build-debug/test
+"test_point_distance_2d" start time: Oct 18 12:01 Rom, sommertid
+Output:
+----------------------------------------------------------
+Testing (0,0)(1,0)
+Testing (0,-1)(1,0)
+Testing (0,0)(0,0)
+Testing (0,0)(10,10)
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"test_point_distance_2d" end time: Oct 18 12:01 Rom, sommertid
+"test_point_distance_2d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: test_point_distance_nd
+3/3 Test: test_point_distance_nd
+Command: "C:/Users/Lucas/CLionProjects/lecture-8-LucasMark/cmake-build-debug/test/test_point_distance_nd.exe"
+Directory: C:/Users/Lucas/CLionProjects/lecture-8-LucasMark/cmake-build-debug/test
+"test_point_distance_nd" start time: Oct 18 12:01 Rom, sommertid
+Output:
+----------------------------------------------------------
+Assertion failed: point_distance(point1, point2, 2) == 1, file C:/Users/Lucas/CLionProjects/lecture-8-LucasMark/test/test_point_distance_nd.c, line 16
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Failed.
+"test_point_distance_nd" end time: Oct 18 12:01 Rom, sommertid
+"test_point_distance_nd" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 18 12:01 Rom, sommertid
