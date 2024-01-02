@@ -1,0 +1,7 @@
+C:/Users/Lucas/CLionProjects/lecture-13-LucasMark/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-13-LucasMark/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-13-LucasMark/cmake-build-debug/src/CMakeFiles/exercise-12.6.dir
+C:/Users/Lucas/CLionProjects/lecture-13-LucasMark/cmake-build-debug/src/CMakeFiles/exercise-12.7.dir
+C:/Users/Lucas/CLionProjects/lecture-13-LucasMark/cmake-build-debug/src/CMakeFiles/exercise-12.8.dir
+C:/Users/Lucas/CLionProjects/lecture-13-LucasMark/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-13-LucasMark/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

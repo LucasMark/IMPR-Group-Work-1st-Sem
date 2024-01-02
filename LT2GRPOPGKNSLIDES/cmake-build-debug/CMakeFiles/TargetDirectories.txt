@@ -1,0 +1,3 @@
+C:/Users/Lucas/CLionProjects/LT2GRPOPGKNSLIDES/cmake-build-debug/CMakeFiles/LT2GRPOPGKNSLIDES.dir
+C:/Users/Lucas/CLionProjects/LT2GRPOPGKNSLIDES/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/LT2GRPOPGKNSLIDES/cmake-build-debug/CMakeFiles/rebuild_cache.dir
