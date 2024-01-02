@@ -1,0 +1,9 @@
+C:/Users/Lucas/CLionProjects/lecture-2-live-LucasMark/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-2-live-LucasMark/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-2-live-LucasMark/cmake-build-debug/src/CMakeFiles/increment_operators.dir
+C:/Users/Lucas/CLionProjects/lecture-2-live-LucasMark/cmake-build-debug/src/CMakeFiles/lecture_2_live.dir
+C:/Users/Lucas/CLionProjects/lecture-2-live-LucasMark/cmake-build-debug/src/CMakeFiles/miles_to_km.dir
+C:/Users/Lucas/CLionProjects/lecture-2-live-LucasMark/cmake-build-debug/src/CMakeFiles/miles_to_km_fejl.dir
+C:/Users/Lucas/CLionProjects/lecture-2-live-LucasMark/cmake-build-debug/src/CMakeFiles/miles_to_km_rod.dir
+C:/Users/Lucas/CLionProjects/lecture-2-live-LucasMark/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-2-live-LucasMark/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
