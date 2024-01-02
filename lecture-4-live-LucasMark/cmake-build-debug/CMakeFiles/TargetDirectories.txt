@@ -1,0 +1,10 @@
+C:/Users/Lucas/CLionProjects/lecture-4-live-LucasMark/cmake-build-debug/CMakeFiles/new_target.dir
+C:/Users/Lucas/CLionProjects/lecture-4-live-LucasMark/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-4-live-LucasMark/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-4-live-LucasMark/cmake-build-debug/src/CMakeFiles/firkant.dir
+C:/Users/Lucas/CLionProjects/lecture-4-live-LucasMark/cmake-build-debug/src/CMakeFiles/trekant.dir
+C:/Users/Lucas/CLionProjects/lecture-4-live-LucasMark/cmake-build-debug/src/CMakeFiles/omvendt.dir
+C:/Users/Lucas/CLionProjects/lecture-4-live-LucasMark/cmake-build-debug/src/CMakeFiles/live.dir
+C:/Users/Lucas/CLionProjects/lecture-4-live-LucasMark/cmake-build-debug/src/CMakeFiles/guess.dir
+C:/Users/Lucas/CLionProjects/lecture-4-live-LucasMark/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-4-live-LucasMark/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
