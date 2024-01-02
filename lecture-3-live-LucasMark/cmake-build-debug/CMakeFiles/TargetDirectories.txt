@@ -1,0 +1,5 @@
+C:/Users/Lucas/CLionProjects/lecture-3-live-LucasMark/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-3-live-LucasMark/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-3-live-LucasMark/cmake-build-debug/src/CMakeFiles/lecture3_live.dir
+C:/Users/Lucas/CLionProjects/lecture-3-live-LucasMark/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/lecture-3-live-LucasMark/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
